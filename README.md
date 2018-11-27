@@ -6,7 +6,7 @@ These are P4Simulator install scripts to help you download, install, run P4Simul
 We recommend to install P4Simulator step by step, because there may be some errors in the installation process.We also provide a one-click installation script(install_deps.sh) to install P4Simulator. 
 
 ### download P4Simulator install scripts
-   `$ git clone https://github.com/P4Simulator/P4Simulator-install.git`   
+   `$ git clone https://github.com/kphf1995cm/P4Simulator-install.git`   
 
    `$ cd P4Simulator-install`
 
