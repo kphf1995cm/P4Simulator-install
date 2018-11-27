@@ -6,5 +6,5 @@ mv ns-allinone-3.27 ../
 cd ..
 cd ns-allinone-3.27/
 ./build.py
-cd ../ns4-install/
+cd ../P4Simulator-install/
 
