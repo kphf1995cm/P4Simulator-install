@@ -32,8 +32,9 @@ Cflags: -I${includedir}" >/usr/local/lib/pkgconfig/simple_switch.pc
 cd ../ns-allinone-3.27/
 cd ns-3.27/
 cd src
-python create-module.py P4Simulator
-rm P4Simulator -rf
+python create-module.py p4simulator
+rm p4simulator -rf
 git clone https://github.com/P4Simulator/P4Simulator.git
-cd ../../P4Simulator-install/
+mv P4Simulator p4simulator
+cd ../../../P4Simulator-install/
 
